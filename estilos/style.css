@@ -1,5 +1,5 @@
-{
-    font-family: Arial, sans-serif;
+*{
+    font-family: Arial, sans-serif; 
     font-size: 16px;
 }
 
@@ -12,7 +12,7 @@ body {
 main {
     width: 500px;
     margin: auto;
-    box-shadow: inset 3px 3px 5px rgba(0,0,0,0.473)    background-color: white ;
+    box-shadow: inset 3px 3px 5px rgba(0,0,0,0.473);   background-color: white;
     padding: 10px;
     
 }
